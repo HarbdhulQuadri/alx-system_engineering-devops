@@ -1,2 +1,2 @@
-echo '#!/bin/bash' \n
-echo "Hello, World" 
+#!/bin/bash \n
+echo \n "Hello, World" 
